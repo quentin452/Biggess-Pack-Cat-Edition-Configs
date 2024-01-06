@@ -2,6 +2,5 @@ OpenBlocks:infoBook,1,0
 OpenComputers:item,1,98
 TConstruct:manualBook,1,0
 eureka:engineeringDiary,1,0
-Backpack:backpack,1,0,{backpack-UID:"54b40629-75da-4bb9-a7ae-0d0a769c5e75",name:"item.backpack.name"}
 doggytalents:doggy_charm,1,0
 doggytalents:command_emblem,1,0
